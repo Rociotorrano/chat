@@ -18,10 +18,10 @@ class ChatScreen extends StatelessWidget {
           padding: EdgeInsets.all(4.0),
           child: CircleAvatar(
             backgroundImage: NetworkImage(
-                'https://muestreoyanalisis.com/wp-content/uploads/2018/12/enviado.png'),
+                'https://th.bing.com/th/id/OIP.1XAco0cWZwi8qJFZHrF80QHaHa?rs=1&pid=ImgDetMain'),
           ),
         ),
-        title: const Text('Mensajes!'),
+        title: const Text('Zara'),
       ),
       body: _chatWiew(),
     );
